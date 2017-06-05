@@ -9,7 +9,7 @@
 #= require jquery.vmap.js
 #= require fastclick
 #= require Chart.min
-#= require gauge
+#= require gauge.min
 #= require skycons
 #= require date
 #= require jquery.flot
