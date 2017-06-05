@@ -36,7 +36,7 @@
 #= require jszip
 #= require pdfmake
 #= require vfs_fonts
-#= require fullcalendar
+#= require fullcalendar.min
 #= require raphael
 #= require morris
 #= require echarts
